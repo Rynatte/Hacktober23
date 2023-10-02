@@ -11,4 +11,7 @@
   I am interseted in Full Stack Web Development
 ```
 
+```bash
+  My name is Rokmek. I'm interested in MERN Stack Development 
+```
 
